@@ -1,4 +1,4 @@
-# Artsy - NFT Marketplace & Art Auction Platform
+# Artsy - Art Auction Platform
 
 A modern, production-ready NFT marketplace and art auction platform built with React, Node.js, and PostgreSQL.
 
