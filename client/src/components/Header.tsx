@@ -15,7 +15,7 @@ export default function Header() {
           <div className="flex items-center">
             <div className="flex-shrink-0">
               <Link href="/">
-                <h1 className="text-2xl font-bold text-primary cursor-pointer">ArtBid</h1>
+                <h1 className="text-2xl font-bold text-primary cursor-pointer">Artsy</h1>
               </Link>
             </div>
             <nav className="hidden md:ml-8 md:flex space-x-8">
